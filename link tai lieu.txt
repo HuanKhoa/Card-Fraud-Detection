@@ -1,0 +1,8 @@
+I. Dataset
+	1. https://www.kaggle.com/datasets/kartik2112/fraud-detection
+
+II. Source Sample
+	1. https://github.com/Abhishek004-thapa/Credit-Card-Fraud-Detection/blob/main/main.ipynb
+	
+III. Deloyed Web
+	1. https://www.youtube.com/watch?v=239TaYSQI-s
